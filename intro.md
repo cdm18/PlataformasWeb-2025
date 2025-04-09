@@ -1,11 +1,9 @@
-# Welcome to your Jupyter Book
+﻿# Estudiante Carlos Mejia
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Tengo 21 años cursando el 6to semestre de Ingeniería en Computación. Este notebook contiende es para el itinerario de **Plataformas Web**donde se exploraran tecnologías modernas para el desarrollo web, arquitecturas, frameworks y buenas prácticas.
 
-Check out the content pages bundled with this sample book to see more.
+
+!{Imagen1}(https://jessup.edu/wp-content/uploads/2023/12/How-to-Become-a-Web-Developer.jpg)
 
 ```{tableofcontents}
 ```
